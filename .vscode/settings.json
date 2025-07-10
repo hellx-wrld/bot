@@ -1,0 +1,9 @@
+{
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": null,
+  "eslint.enable": true,
+  "files.exclude": {
+    "node_modules": true,
+    "data": true
+  }
+}
